@@ -34,6 +34,21 @@ Adam Grant
 
 <div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/lang/en/adam_grant_the_surprising_habits_of_original_thinkers" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 
+>[A healthy economy should be designed to thrive, not grow](https://www.ted.com/talks/kate_raworth_a_healthy_economy_should_be_designed_to_thrive_not_grow)   
+Kate Raworth
+
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/lang/en/kate_raworth_a_healthy_economy_should_be_designed_to_thrive_not_grow" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
+
+<br/>
+<br/>
+
+>[How we can make the world a better place by 2030](https://www.ted.com/talks/michael_green_how_we_can_make_the_world_a_better_place_by_2030)    
+Michael Green
+
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/lang/en/michael_green_how_we_can_make_the_world_a_better_place_by_2030" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
+
+<br/>
+<br/>
 
 ### Favourite Papers
 >Laudon & Laudon, Management Information Systems
