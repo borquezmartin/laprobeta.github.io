@@ -62,8 +62,10 @@ Michael Green
 ### Recomended Films
 A classic list of great fils is the [IMB's List](https://www.imdb.com/chart/top/)
 
-| Name  |   Author        |  Genre  | Commentary |  
-|----------|-------------|--------|--------------------------------| 
+
+| Name  |  Genre  | Commentary |  
+|:----------|:--------:|:--------------------------------| 
+|The Great Hack | Documentary | Explores the case of Cambriedge Analytica |
 
 <br/>
 <br/>
