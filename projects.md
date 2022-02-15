@@ -26,7 +26,7 @@ In this page you will be able to find class projects, reports, individual invest
 ## Technological Vigilance <a name="tech_vigilance"></a>
 ------
 
-### Artificial Intelligence
+### Artificial Intelligence <a name="ai"></a>
 <img src="./assets/img/HypeCycleAI.png">
 ------
 <br>
