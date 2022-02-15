@@ -10,25 +10,25 @@ Jul.2021 - Dic.2021
 
 El trabajo se realizó con el profesor Gonzalo Valdés y consiste en desarrollar una plataforma web que permita visualizar las brechas salariales entre mujeres y hombres.
 
->Ayudante Modelos de Procesos    
+>**Ayudante Modelos de Procesos**    
 Escuela de Ingeniería, Pontificia Universidad Católica
 Jul.2021 - Dic.2021
 
 Modelos de procesos es un curso del Departamento de Computación que busca enseñar distintas metodologías de documentación, modelado y análisis de procesos.
 
->Entrenador Inteligencia Artificial     
+>**Entrenador Inteligencia Artificial**     
 Eniax spa
 Dic.2020 - Sep.2021
 
 Trabajo part-time que consistió en darle retroalimentación a una inteligencia artificial. Esta herramienta se implementó en más de 5 clínicas para la confirmación de horas médicas.
 
->Práctica de Ingeniería              
+>**Práctica de Ingeniería**              
 Municipalidad de Peñalolén
 Ene.2021 - Feb.2021
 
 El trabajo se realizó con la dirección de tránsito a través del programa Puentes UC. El objetivo principal fue analizar los siniestros relacionados con bicicletas, en conjunto de levantar propuestas para reducirlos.  
 
->Ayudante Desafíos de la Ingeniería     
+>**Ayudante Desafíos de la Ingeniería**     
 Escuela de Ingeniería, Pontificia Universidad Católica
 Mar.2019 - Jul.2020
 
@@ -48,15 +48,15 @@ Mar.2020 - Dic.2023
 | Year | Position | Organization | 
 |------|----------|--------------|
 |2021 | Subjefe de Comisión I&E | Centro de Alumnos Ingeniería UC|
-|2021 | Coord. Responsabilidad Social | Consejería Territorial ingeniería UC
-|2021 | Tutor | Cuerpo de Tutores Ingeniería UC
-|2019-2020| Miembro activo | Escuela Popular Aurora-Argomedo
-|2018     | Voluntario | Jóvenes Sin Fronteras
-|2014-2017| Miembro Consejo de Servicio|CVX Secundaria
-|2014-2017| Desayunos Solidarios | Colegio Institución Teresiana
-|2014     | Capitán de la Selección de Fútbol| Colegio Institución Teresiana
-|2013-2015| Scout - Guía de Guías | Grupo Scout Paicaví
-|2013     | Centro de Alumnos | Colegio Institución Teresiana
+|2021 | Coord. Responsabilidad Social | Consejería Territorial ingeniería UC|
+|2021 | Tutor | Cuerpo de Tutores Ingeniería UC |
+|2019-2020| Miembro activo | Escuela Popular Aurora-Argomedo|
+|2018     | Voluntario | Jóvenes Sin Fronteras|
+|2014-2017| Miembro Consejo de Servicio|CVX Secundaria|
+|2014-2017| Desayunos Solidarios | Colegio Institución Teresiana|
+|2014     | Capitán de la Selección de Fútbol| Colegio Institución Teresiana|
+|2013-2015| Scout - Guía de Guías | Grupo Scout Paicaví|
+|2013     | Centro de Alumnos | Colegio Institución Teresiana|
 
 
 
@@ -72,13 +72,13 @@ Mar.2020 - Dic.2023
 
 
 #### Premios y logros
->Primer Lugar Feria Tecnológica     
+* Primer Lugar Feria Tecnológica     
 Escuela de Ingeniería UC
 
->Voto Popular Feria Tecnológica      
+* Voto Popular Feria Tecnológica       
 Escuela de Ingeniería UC
 
->Trayectoria Deportiva y Mérito Deportivo    
+* Trayectoria Deportiva y Mérito Deportivo    
 Colegio Institución Teresiana
 
 
@@ -98,6 +98,6 @@ Escuela de Liderazgo Ingeniería UC.
 * Taller de Liderazgo para las Políticas Públicas  
 Escuela de Gobierno UC
 
-
+----------
 
 [Volver](./)
