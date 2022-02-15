@@ -3,7 +3,7 @@
 In this page you will be able to find class projects, reports, individual investigations and results from previous works.
 
 ### Index
-* [Technological vigilance](#tech_vigilance)
+* [Technological vigilance]
   * [Algae Carbon Offset Projects](./projects/algae.html)
   * [Artificial Intelligence](#ai)
 * [Business Intelligence](#bi)
