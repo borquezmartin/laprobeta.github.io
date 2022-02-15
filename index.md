@@ -29,11 +29,12 @@ A classic list of great fils is the [IMB's List](https://www.imdb.com/chart/top/
 <br/>
 
 ### Links
->[Curriculum](./curriculum.html)    
-Education, Experience, Skills and Awards
+>[Projects](./projects.html)      
+Different projects 
 
 >[News](./news.html)     
 Relevant articles and sources of information
 
->[Projects](./projects.html)      
-Different projects 
+>[Curriculum](./curriculum.html)    
+Education, Experience, Skills and Awards
+
