@@ -1,37 +1,20 @@
 ## La Probeta
 
-Welcome to Martín Bórquez's portafolio. Here you will be able to see projects, news, articles and reports about diferent topics as Economics, Data Science, philosophy, among others.
+Welcome to Martín Bórquez's portafolio. Here you will be able to see projects, news, articles and reports about diferent topics as Innovation, Process Analysis, Data Science, Business Intelligence, Sustentability, Behavorial Economics, Design, Philosophy, among other issues.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Recomended Books
+| Name  |   Author        |  Gender | Commentary|  
+|----------|:-------------:|------:|------- | 
+| [**Sapiens: A Brief History of Humankind**](https://www.ynharari.com/book/sapiens-2/) |  *Yuval Noah Harari* | History | Reflect on the history of institutions and their importance in human kind. Mind changing. Easy to read.| 
+| [**Homo Deus: A Brief History of Tomorrow**](https://www.ynharari.com/book/homo-deus/) | *Yuval Noah Harari* | History | Reflect on the future of human kind. Mind changing. Easy to read.|
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Favourite Papers
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Recomended Films
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/borquezmartin/laprobeta.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
