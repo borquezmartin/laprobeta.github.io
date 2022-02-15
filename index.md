@@ -28,7 +28,7 @@ Welcome to Martín Bórquez's portafolio. Here you will be able to see projects,
 
 
 ### Favourite Papers
->Laudo & Laudon, Management Information Systems
+>Laudon & Laudon, Management Information Systems
 
 
 ### Recomended Films
