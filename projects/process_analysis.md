@@ -8,7 +8,7 @@ _July 12, 2021_
 This case was develop with the Startup Houm during Process Model's class in Pontificia Universidad Católica
 
 **Improves report**
-<embed src="../assets/documents/HoumReport.pdf" width="800" height="375">
+<embed src="../assets/documents/HoumReport.pdf" width="500" height="800">
 
 -----
 [Volver](../projects.html)
