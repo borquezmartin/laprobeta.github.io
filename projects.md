@@ -3,23 +3,22 @@
 In this page you will be able to find class projects, reports, individual investigations and results from previous works.
 
 ### Index
-* [Technological vigilance]
+* Process Analysis
+  * [Case: Process discovery in Houm](./projects/houm_case.html) 
+  * [Article Process and Enterprise Maturity Model](#process) 
+* Technological vigilance
   * [Algae Carbon Offset Projects](./projects/algae.html)
   * [Artificial Intelligence](#ai)
 * [Business Intelligence](#bi)
+  * Power BI example
   * Gender Gap
-* Process Analysis
-  * [Case: Process discovery in Houm](./projects/houm_case.html) 
-  * [Article Process and Enterprise Maturity Model](#process)
 * Information Systems
-  * Cases 
-* Behavorial Economics
+  * Cases   
 * Design
   * Design Thiking 
   * Design Anthology
 * Psychology
   * 16 Personalities 
-* [Philosophy]()
 
 <br>
 
