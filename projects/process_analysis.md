@@ -8,7 +8,7 @@ _July 12, 2021_
 This case was develop with the Startup Houm during Process Model's class in Pontificia Universidad Católica. The main objective of this study was to explore, document and propose improvements about the process *Close agreement between owner and tenant*
 
 ### Process Status Presentation
-<embed src="../assets/documents/HoumStatusPresentation.pdf" width="500" height="400">
+<embed src="../assets/documents/HoumStatusPresentation.pdf" width="500" height="300">
 
 <br> 
 
@@ -19,7 +19,7 @@ This case was develop with the Startup Houm during Process Model's class in Pont
 <br>
 
 ### Process Improves Presentation
-<embed src="../assets/documents/HoumImprovePresentation.pdf" width="500" height="400">
+<embed src="../assets/documents/HoumImprovePresentation.pdf" width="500" height="300">
 
 <br> 
 
