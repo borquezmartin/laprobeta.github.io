@@ -33,4 +33,4 @@ Revista de investigación científica.
 
 
 
-[Volver](../)
+[Volver](./)
