@@ -4,13 +4,13 @@ Welcome to Martín Bórquez's portafolio. Here you will be able to see projects,
 
 
 ### Pages
->[Projects](./projects.html)      
+>[**Projects**](./projects.html)      
 Class projects, reports, individual investigations and results from previous works.
 
->[News](./news.html)     
+>[**News**](./news.html)     
 Relevant articles and sources of information
 
->[Curriculum](./curriculum.html)    
+>[**Curriculum**](./curriculum.html)    
 Education, Experience, Skills and Awards
 
 <br/>
