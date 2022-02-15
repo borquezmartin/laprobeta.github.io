@@ -1,5 +1,7 @@
 # Projects
 
+In this page you will be able to find...
+
 ### Index
 * [Technological vigilance](#tech_vigilance)
   * [Algae Carbon Offset Projects](#algae)
