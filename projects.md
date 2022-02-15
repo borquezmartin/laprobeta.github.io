@@ -22,7 +22,7 @@ In this page you will be able to find class projects, reports, individual invest
 * [Philosophy]()
 
 
-----
+-----
 
 ## Technological Vigilance <a name="tech_vigilance"></a>
 
@@ -42,7 +42,7 @@ Two pilot projects in Sweden are using algae cultivation to achieve a number of 
 
 ### Artificial Intelligence
 <img src="./assets/img/HypeCycleAI.png">
------
+------
 <br>
 
 ## Business Inteligence <a name="bi"></a>
@@ -54,31 +54,32 @@ Two pilot projects in Sweden are using algae cultivation to achieve a number of 
 ### Gender Gap
 >[Logib](https://www.logib.admin.ch/home)    
 Analysis tool, enables employers to conduct their own equal pay analysis. They receive an evaluation, complete with an interpretation of the results, plus a selection of various reports and forms, charts and tables.  
------
+
 <br>
 
 ## Process Analysis <a name="process"></a>
+-----
 ### Process and Enterprise Maturity Model
 Hammer's Process Maturity Model is...
 
 * [Documentation](http://www.hammerandco.com/pemm.htm)
 * [Research](https://www.researchgate.net/publication/265220113_Michael_Hammer%27s_Process_and_Enterprise_Maturity_Model)
 
------
+
 <br>
 
 ## Behovorial Economics
-
 -----
 <br>
 
 
 ## Psychology
+-----
 ### 16 Personalities 
 
 [Personality test](https://www.16personalities.com/free-personality-test)
 
------
+
 <br>
 
 ## Philosophy
