@@ -1,6 +1,6 @@
 # Projects
 
-In this page you will be able to find...
+In this page you will be able to find class projects, reports, individual investigations and results from about previous works.
 
 ### Index
 * [Technological vigilance](#tech_vigilance)
