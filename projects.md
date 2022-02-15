@@ -47,7 +47,7 @@ Two pilot projects in Sweden are using algae cultivation to achieve a number of 
 ## Business Inteligence <a name="bi"></a>
 ------
 ### Power BI example
-<iframe title="Reporte Ventas Videojuegos - Page 1" width="550" height="350" src="https://app.powerbi.com/reportEmbed?reportId=c019f37b-b110-4a92-8159-9ede9c313fd5&autoAuth=true&ctid=5ff5d9fa-f83f-4ac1-a4d2-eb48ea0a00d2&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXNvdXRoLWNlbnRyYWwtdXMtcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="Reporte Ventas Videojuegos - Page 1" width="600" height="400" src="https://app.powerbi.com/reportEmbed?reportId=c019f37b-b110-4a92-8159-9ede9c313fd5&autoAuth=true&ctid=5ff5d9fa-f83f-4ac1-a4d2-eb48ea0a00d2&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXNvdXRoLWNlbnRyYWwtdXMtcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D" frameborder="0" allowFullScreen="true"></iframe>
 
 <br>
 
