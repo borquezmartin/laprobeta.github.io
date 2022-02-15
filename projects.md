@@ -37,22 +37,28 @@ Two pilot projects in Sweden are using algae cultivation to achieve a number of 
 ### Artificial Intelligence
 <img src="./assets/img/HypeCycleAI.png">
 
+-----
 
 ## Business Inteligence <a name="bi"></a>
 ### Gender Gap
 
+-----
 ## Process Analysis
 ### Process and Enterprise Maturity Model
 [Documentation](http://www.hammerandco.com/pemm.htm)
 [Research](https://www.researchgate.net/publication/265220113_Michael_Hammer%27s_Process_and_Enterprise_Maturity_Model)
 
+-----
 
 ## Behovorial Economics
+
+-----
 
 
 ## Psychology
 ### 16 Personalities 
 [Personality test](https://www.16personalities.com/free-personality-test)
+-----
 
 ## Philosophy
 
