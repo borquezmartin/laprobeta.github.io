@@ -19,7 +19,7 @@ Education, Experience, Skills and Awards
  
 
 | Name  |   Author        |  Genre  | Commentary |  
-|----------|-------------|--------|--------------------------------| 
+|-------------|---------------|--------|-----------------------------| 
 | **The Stranger**| *Albert Camus* | Philosophical novel| Existentialist novel|
 | [**The Three-Body Problem**](https://www.youtube.com/watch?v=D89ngRr4uZg)| *Cixin Liu* | Science fiction| Chinese novel|
 | [**Sapiens: A Brief History of Humankind**](https://www.ynharari.com/book/sapiens-2/)|  *Yuval Noah Harari* | History | Reflect on the history of institutions and their importance in human kind. Mind changing. Easy to read.| 
@@ -60,11 +60,11 @@ Michael Green
 
 
 ### Recomended Films
-A classic list of great fils is the [IMB's List](https://www.imdb.com/chart/top/)
+A classic list of great films is the [IMB's List](https://www.imdb.com/chart/top/)
 
 
 | Name  |  Genre  | Commentary |  
-|:----------|:--------:|:--------------------------------| 
+|:---------------|:----------:|:-----------------------------| 
 |The Great Hack | Documentary | Explores the case of Cambriedge Analytica |
 
 <br/>
