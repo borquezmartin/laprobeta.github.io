@@ -3,18 +3,10 @@
 Welcome to Martín Bórquez's portafolio. Here you will be able to see projects, news, articles and reports about diferent topics as Innovation, Process Analysis, Data Science, Business Intelligence, Sustentability, Behavorial Economics, Design, Philosophy, among other issues.
 
 
->[Curriculum](./curriculum.html)    
-Education, Experience, Skills and Awards
-
->[News](./news.html)
-Relevant articles and sources of information
-
->[Projects](./projects.html)
-Different projects 
 
 
 ### Recomended Books                                                                                                     
-|----------|-------------|--------|--------------------------------| 
+ 
 
 | Name  |   Author        |  Genre  | Commentary |  
 |----------|-------------|--------|--------------------------------| 
@@ -27,3 +19,13 @@ Different projects
 
 ### Recomended Films
 A classic list of great fils is the [IMB's List](https://www.imdb.com/chart/top/)
+
+### Links
+>[Curriculum](./curriculum.html)    
+Education, Experience, Skills and Awards
+
+>[News](./news.html)     
+Relevant articles and sources of information
+
+>[Projects](./projects.html)      
+Different projects 
