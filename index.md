@@ -7,7 +7,7 @@ Welcome to Martín Bórquez's portafolio. Here you will be able to see projects,
 
 ### Recomended Books
 | Name  |   Author        |  Gender | Commentary|  
-|----------|:-------------:|------:|------- | 
+|----------| -------------|--------|-------------------------------- | 
 | [**Sapiens: A Brief History of Humankind**](https://www.ynharari.com/book/sapiens-2/) |  *Yuval Noah Harari* | History | Reflect on the history of institutions and their importance in human kind. Mind changing. Easy to read.| 
 | [**Homo Deus: A Brief History of Tomorrow**](https://www.ynharari.com/book/homo-deus/) | *Yuval Noah Harari* | History | Reflect on the future of human kind. Mind changing. Easy to read.|
 
