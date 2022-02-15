@@ -8,7 +8,7 @@ In this page you will be able to find...
   * [Artificial Intelligence](#ai)
 * [Business Intelligence](#bi)
   * Gender Gap
-* [Process Analysis](./proyects/process_analysis.html)
+* [Process Analysis](./projects/process_analysis.html)
   * Process and Enterprise Maturity Model 
 * Information Systems
   * Cases 
