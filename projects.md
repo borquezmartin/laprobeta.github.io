@@ -7,7 +7,7 @@ In this page you will be able to find...
   * [Algae Carbon Offset Projects](#algae)
   * [Artificial Intelligence](#ai)
 * [Business Intelligence](#bi)
-  * Gender Gap 
+  * Gender Gap
 * [Process Analysis]()
   * Process and Enterprise Maturity Model 
 * Information Systems
@@ -41,6 +41,9 @@ Two pilot projects in Sweden are using algae cultivation to achieve a number of 
 
 ## Business Inteligence <a name="bi"></a>
 ### Gender Gap
+>[Logib](https://www.logib.admin.ch/home)    
+Analysis tool, enables employers to conduct their own equal pay analysis. They receive an evaluation, complete with an interpretation of the results, plus a selection of various reports and forms, charts and tables.  
+
 
 -----
 ## Process Analysis
