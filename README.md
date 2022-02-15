@@ -8,6 +8,14 @@
 
 Link: laprobeta.github.io
 
+> [Inspiratinal theme](https://pages-themes.github.io/minimal/)   
+https://github.com/pages-themes/minimal 
+
+
+https://capitulo-acm-puc.github.io/
+
+
+https://github.com/borquezmartin/capitulo-acm-puc.github.io
 
 ## About Martín Bórquez Herrera
 [LinkedIn](https://www.linkedin.com/in/mart%C3%ADn-b%C3%B3rquez-herrera-783507175/)
