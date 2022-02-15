@@ -9,6 +9,7 @@ The main objective of this work consist in evaluating the status of research, te
 
 <embed src="../assets/documents/AlgaeCarbonCapture.pdf" width="500" height="700">
 
+<br> 
 
 **Related articles** 
 
