@@ -8,8 +8,9 @@ In this page you will be able to find class projects, reports, individual invest
   * [Artificial Intelligence](#ai)
 * [Business Intelligence](#bi)
   * Gender Gap
-* [Process Analysis](./projects/process_analysis.html)
-  * Process and Enterprise Maturity Model 
+* Process Analysis
+  * [Case: Process discovery in Houm](./projects/houm_case.html) 
+  * [Article Process and Enterprise Maturity Model](#process)
 * Information Systems
   * Cases 
 * Behavorial Economics
@@ -52,7 +53,7 @@ Analysis tool, enables employers to conduct their own equal pay analysis. They r
 
 
 -----
-## Process Analysis
+## Process Analysis <a name="process"></a>
 ### Process and Enterprise Maturity Model
 [Documentation](http://www.hammerandco.com/pemm.htm)
 [Research](https://www.researchgate.net/publication/265220113_Michael_Hammer%27s_Process_and_Enterprise_Maturity_Model)
