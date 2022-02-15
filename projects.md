@@ -29,6 +29,12 @@ In this page you will be able to find...
 ### Algae Carbon Offset Projects <a name="algae"></a>
 Two pilot projects in Sweden are using algae cultivation to achieve a number of sustainable effects. Besides reducing carbon dioxide emissions and purifying waste water to minimise over-fertilization, the algae cultivation produces energy-rich algae mass that can be used for biodiesel and animal feed. 
 
+<img src="./assets/img/AlgaeCO2Capture.png">
+
+<br>
+
+<img src="./assets/img/DesignEducatesAward.png">
+
 **Related articles** <a name="ai"></a>
 * [Smart City Sweden](https://smartcitysweden.com/best-practice/300/algae-projects-reduction-of-co2-and-production-of-biomass-is-climate-win-win/)
 * [Standford Energy Seminar](https://youtu.be/64clWE7AfLg)
