@@ -4,6 +4,8 @@ Welcome to Martín Bórquez's portafolio. Here you will be able to see projects,
 
 
 >[Curriculum](./curriculum.html)
+
+
 >[News](./news.html)
 
 
