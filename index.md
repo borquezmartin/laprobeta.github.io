@@ -2,6 +2,7 @@
 
 Welcome to Martín Bórquez's portafolio. Here you will be able to see projects, news, articles and reports about diferent topics as Innovation, Process Analysis, Data Science, Business Intelligence, Sustentability, Behavorial Economics, Design, Philosophy, among other issues.
 
+<br/>
 
 ### Recomended Books                                                                                                     
  
@@ -13,15 +14,18 @@ Welcome to Martín Bórquez's portafolio. Here you will be able to see projects,
 | **The Stranger**| *Albert Camus* | Philosophical novel| Existentialist novel|
 
 <br/>
+<br/>
 
 ### Favourite Papers
 >Laudon & Laudon, Management Information Systems
 
 <br/>
+<br/>
 
 ### Recomended Films
 A classic list of great fils is the [IMB's List](https://www.imdb.com/chart/top/)
 
+<br/>
 <br/>
 
 ### Links
