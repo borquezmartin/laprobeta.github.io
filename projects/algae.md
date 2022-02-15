@@ -1,6 +1,13 @@
 # Technological Vigilance
 
+This case was develop during Technological Vigilance's class in Pontificia Universidad Católica.
+
 ## Status of Algae Carbon Offset Projects 
+_December 13, 2021_
+
+The main objective of this work consist in evaluating the status of research, technology and market about *Algae CO2 Capture* 
+
+<embed src="../assets/documents/AlgaeCarbonCapture.pdf" width="500" height="700">
 
 ### Research about Algae Carbon Capture
 <img src="../assets/img/AlgaeCO2Capture.png">
