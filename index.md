@@ -2,6 +2,11 @@
 
 Welcome to Martín Bórquez's portafolio. Here you will be able to see projects, news, articles and reports about diferent topics as Innovation, Process Analysis, Data Science, Business Intelligence, Sustentability, Behavorial Economics, Design, Philosophy, among other issues.
 
+
+>[Curriculum](./curriculum.html)
+>[News](./news.html)
+
+
 ### Recomended Books                                                                                                     
 | Name  |   Author        |  Genre  | Commentary |  
 |----------|-------------|--------|--------------------------------| 
