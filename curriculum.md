@@ -2,6 +2,7 @@
 
 Estudiante de Ingeniería Civil Industrial mención Tecnologías de la Información. Además de los conocimientos propios de la carrera, tengo experiencia en metodologías de innovación, transporte sustentable y liderazgo de equipos. Me considero una persona trabajadora y orientada a los desafíos. En mi tiempo libre suelo estar con amigos, familia o testeando proyectos, jugando fútbol o andando en bicicleta. También, suelo leer y asistir a charlas sobre tecnología, política, ciencia y filosofía
 
+[LinkedIn](https://www.linkedin.com/in/mart%C3%ADn-b%C3%B3rquez-herrera-783507175/) - [GitHub](https://github.com/borquezmartin)
 
 ### Experiencia
 >**Investigación en Pregrado**  
