@@ -9,17 +9,6 @@ The main objective of this work consist in evaluating the status of research, te
 
 <embed src="../assets/documents/AlgaeCarbonCapture.pdf" width="500" height="700">
 
-<br> 
-
-### Research about Algae Carbon Capture
-<img src="../assets/img/AlgaeCO2Capture.png">
-
-<br>
-
-### Home Design for Carbon Capture
-<img src="../assets/img/DesignEducatesAward.png">
-
-<br>
 
 **Related articles** 
 
@@ -28,3 +17,6 @@ Two pilot projects in Sweden are using algae cultivation to achieve a number of 
 * [Smart City Sweden](https://smartcitysweden.com/best-practice/300/algae-projects-reduction-of-co2-and-production-of-biomass-is-climate-win-win/)
 * [Standford Energy Seminar](https://youtu.be/64clWE7AfLg)
 * [Forbes](https://www.forbes.com/sites/jeffmcmahon/2019/05/28/algae-single-celled-savior-of-the-climate-crisis/?sh=77ec9a2b55df)
+
+------
+[Return](../projects.html)
