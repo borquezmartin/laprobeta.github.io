@@ -24,7 +24,7 @@ Education, Experience, Skills and Awards
 | [**The Three-Body Problem**](https://www.youtube.com/watch?v=D89ngRr4uZg)| *Cixin Liu* | Science fiction| Chinese novel|
 | [**Sapiens: A Brief History of Humankind**](https://www.ynharari.com/book/sapiens-2/)|  *Yuval Noah Harari* | History | Reflect on the history of institutions and their importance in human kind. Mind changing. Easy to read.| 
 | [**Homo Deus: A Brief History of Tomorrow**](https://www.ynharari.com/book/homo-deus/)| *Yuval Noah Harari* | History | Reflect on the future of human kind. Mind changing. Easy to read.|
-| [**Lord Of The Flies**](https://www.sparknotes.com/lit/flies/)| *William Golding* | Allegorical novel | Reflect on the society after World War II.|
+| [**Lord Of The Flies**](https://www.sparknotes.com/lit/flies/)| *William Golding* | Allegorical novel | Reflect on society after World War II.|
 
 <br/>
 
@@ -61,6 +61,9 @@ Michael Green
 
 ### Recomended Films
 A classic list of great fils is the [IMB's List](https://www.imdb.com/chart/top/)
+
+| Name  |   Author        |  Genre  | Commentary |  
+|----------|-------------|--------|--------------------------------| 
 
 <br/>
 <br/>
