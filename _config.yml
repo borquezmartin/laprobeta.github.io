@@ -1,6 +1,5 @@
 theme: jekyll-theme-minimal
-title: [The title of your site]
+title: La Probeta
 logo: assets/img/dog_logo.jpeg
-description: [A short description of your site's purpose]
-show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
+description: Martín Bórquez's Portafolio
+show_downloads: "true"
