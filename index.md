@@ -5,7 +5,7 @@ Welcome to Martín Bórquez's portafolio. Here you will be able to see projects,
 
 ### Pages
 >[Projects](./projects.html)      
-Different projects 
+Class projects, reports, individual investigations and results from previous works.
 
 >[News](./news.html)     
 Relevant articles and sources of information
