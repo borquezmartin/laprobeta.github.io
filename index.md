@@ -21,11 +21,14 @@ Education, Experience, Skills and Awards
 | Name  |   Author        |  Genre  | Commentary |  
 |----------|-------------|--------|--------------------------------| 
 | **The Stranger**| *Albert Camus* | Philosophical novel| Existentialist novel|
-| **The Three-Body Problem**| *Cixin Liu* | Science fiction| Chinese novel|
+| [**The Three-Body Problem**](https://www.youtube.com/watch?v=D89ngRr4uZg)| *Cixin Liu* | Science fiction| Chinese novel|
 | [**Sapiens: A Brief History of Humankind**](https://www.ynharari.com/book/sapiens-2/)|  *Yuval Noah Harari* | History | Reflect on the history of institutions and their importance in human kind. Mind changing. Easy to read.| 
-| **Homo Deus: A Brief History of Tomorrow**| *Yuval Noah Harari* | History | Reflect on the future of human kind. Mind changing. Easy to read.|
+| [**Homo Deus: A Brief History of Tomorrow**](https://www.ynharari.com/book/homo-deus/)| *Yuval Noah Harari* | History | Reflect on the future of human kind. Mind changing. Easy to read.|
 
 <br/>
+
+### Favourite Talks
+
 
 
 ### Favourite Papers
