@@ -54,7 +54,14 @@ Michael Green
 <br/>
 
 ### Favourite Papers
->Laudon & Laudon, Management Information Systems
+>[Superforecasting: How to Upgrade Your Company’s Judgment](https://hbr.org/2016/05/superforecasting-how-to-upgrade-your-companys-judgment)   
+Schoemaker & Tetlock
+
+>[Bounded awareness: what you fail to see can hurt you](https://link.springer.com/article/10.1007/s11299-006-0020-4)    
+Dolly Chugh & Max H. Bazerman 
+
+
+
 
 <br/>
 
