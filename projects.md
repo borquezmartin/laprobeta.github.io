@@ -15,7 +15,9 @@ In this page you will be able to find class projects, reports, individual invest
   * [Power BI Example](#example) 
   * [Article: Gender Gap](#gender_gap)
 * Information System
-  * [Article: Smart Stores](#smart_stores)   
+  * [Article: Smart Stores](#smart_stores) 
+* Behavorial Economics
+  * [Column: Politics and Predictable Irrationality](#irrationality)
 * Design
   * [Article: Design Thikin](#design_thinking)
   * Design Anthology
@@ -134,6 +136,7 @@ _February 15, 2022_
 # Behovorial Economics
 -----
 
+## Column: Politics and Predictable Irrationality <a name="irrationality"></a>
 >[Are we in control of our own decisions?](https://www.ted.com/talks/dan_ariely_are_we_in_control_of_our_own_decisions)   
 Dan Ariely, 2008
 
