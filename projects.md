@@ -29,7 +29,7 @@ In this page you will be able to find class projects, reports, individual invest
 # Innovation
 ------
 ## The Lean Startup <a name="lean_startup"></a>
-
+_February 15, 2022_
 <br>
 
 # Process Analysis <a name="process"></a>
@@ -63,6 +63,8 @@ The main objective of this study was to explore, document and propose improvemen
 <br>
 
 ## Process and Enterprise Maturity Model
+_February 15, 2022_
+
 Hammer's Process Maturity Model is...
 
 * [Documentation](http://www.hammerandco.com/pemm.htm)
@@ -94,6 +96,8 @@ Two pilot projects in Sweden are using algae cultivation to achieve a number of 
 
 
 ## Artificial Intelligence <a name="ai"></a>
+_February 15, 2022_
+
 The AI comes to change the world...
 
 <img src="./assets/img/HypeCycleAI.png">
@@ -103,11 +107,15 @@ The AI comes to change the world...
 # Business Inteligence 
 ------
 ## Power BI example <a name="example"></a>
+_February 15, 2022_
+
 <iframe title="Reporte Ventas Videojuegos - Page 1" width="600" height="400" src="https://app.powerbi.com/reportEmbed?reportId=c019f37b-b110-4a92-8159-9ede9c313fd5&autoAuth=true&ctid=5ff5d9fa-f83f-4ac1-a4d2-eb48ea0a00d2&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXNvdXRoLWNlbnRyYWwtdXMtcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D" frameborder="0" allowFullScreen="true"></iframe>
 
 <br>
 
 ## Gender Gap <a name="gender_gap"></a>
+_February 15, 2022_
+
 [Agregar visualizaciones de la brecha salarial de género]
 
 >[Logib](https://www.logib.admin.ch/home)    
@@ -118,6 +126,8 @@ Analysis tool, enables employers to conduct their own equal pay analysis. They r
 # Information Systems 
 ----
 ## Smart Stores <a name="smart_stores"></a>
+_February 15, 2022_
+
 
 <br>
 
@@ -128,6 +138,8 @@ Analysis tool, enables employers to conduct their own equal pay analysis. They r
 # Design
 -----
 ## Design Thinking <a name="design_thinking"></a>
+_February 15, 2022_
+
 1. Ephathize 
 2. Define
 3. Ideate
@@ -141,6 +153,7 @@ Analysis tool, enables employers to conduct their own equal pay analysis. They r
 # Psychology <a name="psychology"></a>
 -----
 ## 16 Personalities 
+_February 15, 2022_
 
 [Personality test](https://www.16personalities.com/free-personality-test)
 
@@ -149,6 +162,7 @@ Analysis tool, enables employers to conduct their own equal pay analysis. They r
 # Philosophy
 -----
 ## Bioethics
+_February 15, 2022_
 The study of bioethics is becoming more relevant every year...
 
 ------
