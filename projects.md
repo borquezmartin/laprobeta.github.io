@@ -4,7 +4,7 @@ In this page you will be able to find class projects, reports, individual invest
 
 ### Index
 * Innovation
-
+  * [Article: The Lean Startup](#lean_startup)
 * Process Analysis
   * [Case: Process discovery in Houm](./projects/houm_case.html) 
   * [Article: Process and Enterprise Maturity Model](#process) 
@@ -28,6 +28,7 @@ In this page you will be able to find class projects, reports, individual invest
 
 # Innovation
 ------
+## The Lean Startup <a name="lean_startup"></a>
 
 <br>
 
