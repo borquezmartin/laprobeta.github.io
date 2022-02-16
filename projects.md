@@ -36,7 +36,7 @@ _February 15, 2022_
 
 # Process Analysis <a name="process"></a>
 -----
-This case was develop with the Startup Houm during Process Model's class in Pontificia Universidad Católica.
+This case was develop with the Startup Houm during Process Model's course in Pontificia Universidad Católica.
 
 ## Case: Close agreement between owner and tenant in Houm
 _July 12, 2021_
@@ -77,7 +77,7 @@ Hammer's Process Maturity Model is...
 
 # Technological Vigilance <a name="tech_vigilance"></a>
 ------
-This case was develop during Technological Vigilance's class in Pontificia Universidad Católica.
+This case was develop during Technological Vigilance's course in Pontificia Universidad Católica.
 
 ## Status of Algae Carbon Offset Projects <a name="algae"></a>
 _December 13, 2021_
