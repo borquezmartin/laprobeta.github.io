@@ -54,11 +54,21 @@ Michael Green
 <br/>
 
 ### Favourite Papers
->[Superforecasting: How to Upgrade Your Company’s Judgment](https://hbr.org/2016/05/superforecasting-how-to-upgrade-your-companys-judgment)   
-Schoemaker & Tetlock
 
 >[Bounded awareness: what you fail to see can hurt you](https://link.springer.com/article/10.1007/s11299-006-0020-4)    
 Dolly Chugh & Max H. Bazerman 
+
+>[Using Research Evidence](https://www.nesta.org.uk/toolkit/using-research-evidence-practice-guide/)    
+Breckon, J.
+
+>[Effectuation: Elements of Entrepreneurial Expertise](https://doi.org/10.1108/jsbed.2008.27115cae.004)    
+Sarasvathy & Elgar
+
+>[Superforecasting: How to Upgrade Your Company’s Judgment](https://hbr.org/2016/05/superforecasting-how-to-upgrade-your-companys-judgment)   
+Schoemaker & Tetlock
+
+>[What Makes a Leader?](https://hbr.org/2004/01/what-makes-a-leader)     
+Goleman
 
 
 
